@@ -29,7 +29,9 @@ Here is how to to generate 'YOUR OWN' spirit box utilizing any mp3's you have ac
 
 2. In Termainal, install homebrew. https://brew.sh/
 
-3. After you install homebrew, install `ffmpeg`. `brew install ffmpeg`
+3. After you install homebrew, install `ffmpeg`. 
+
+ - `brew install ffmpeg`
 
 4. Run this command to split your files into smaller clips.
  
@@ -37,11 +39,13 @@ Here is how to to generate 'YOUR OWN' spirit box utilizing any mp3's you have ac
  
  - Here the segment time is 1 second. If you want it to be shorter, you can use milliseconds by changing 1 to "200ms" or "500ms". Keep it in quotes like that.
  
- - Where it says <YOUR MP3> make sure to pass in the actual mp3 you are splitting.
+ - Where it says `<YOUR MP3>` make sure to pass in the actual mp3 you are splitting.
  
- - Where says <SOME TITLE> you choose a title for the files you are generating. If you pass in 'dangerfield' your split files will be dangerfield1.mp3, dangerfield2.mp3, etc.
+ - Where says `<SOME TITLE>`, make sure you choose a title for the files you are generating. For instance, if you pass in 'dangerfield' your split files will be dangerfield1.mp3, dangerfield2.mp3, etc.
   
-5. Install `mplayer`. `brew install mplayer`
+5. Install `mplayer`. 
+
+ - `brew install mplayer`
 
 6. Make a playlist file with all your mp3s. 
   
