@@ -6,7 +6,7 @@ Simple tools for creating a 'spirit box' with any collection of mp3's
 
 # Why This Is
 
-We have been wondering if it is possible to use traditional methods for communicating with spooks and haunts to do divination with all the characters in the Christmas pantheon? EVPs of the Ghost of Christmas Past? Dowsing rods to find Frosty the Snowman? A rousing Ouija board session with Rudolph the Red-Nosed Reindeer?
+We have been wondering if it is possible to use traditional methods for communicating with spooks and haunts to do divination with all the characters in the Christmas pantheon. EVPs of the Ghost of Christmas Past? Dowsing rods to find Frosty the Snowman? A rousing Ouija board session with Rudolph the Red-Nosed Reindeer?
 
 As you probably know, a popular paranormal technique now-a-days is something called the 'Estes Method', developed by Karl Pfeiffer, Connor Randall, and Michelle Tate (and made popular through the series ‘Hellier’). One participant is blindfolded, and listening to a spirit box-- basically a radio receiver that cycles through the FM dial-- while other participants ask questions to spirits. The person listening to the box is basically undergoing sensory deprivation and cannot hear the questions - their job is to speak words they 'hear' while undergoing the method. Sometimes the words they hear line up with the questions being asked.
 
