@@ -12,7 +12,7 @@ As you probably know, a popular paranormal technique now-a-days is something cal
 
 But it got us thinking — could we modify a spirit box to only use CHRISTMAS MUSIC. Would it be possible?
 
-So we developed a 'Christmas Spirit Box' that plays cut up 500ms audio samples from beloved Christmas songs in a random order (there's a bit of delay and reverb added to make it slightly more spooky sounding). The bits will be unrecognizable but still give off that festive vibe. 
+So we developed a 'Christmas Spirit Box' that plays cut up 500ms audio samples from beloved Christmas songs in a random order. 
 
 We had a lot of fun developing it — and now we’re wondering… 
 What other custom boxes can we do in the future?
